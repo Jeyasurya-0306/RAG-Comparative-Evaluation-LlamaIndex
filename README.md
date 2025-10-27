@@ -61,7 +61,7 @@ The project follows a five-stage LlamaIndex workflow detailed in the documentati
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[]/RAG-Comparative-Evaluation-LlamaIndex.git
+    git clone [https://github.com/](https://github.com/)[Jeyasurya-0306]/RAG-Comparative-Evaluation-LlamaIndex.git
     cd RAG-Comparative-Evaluation-LlamaIndex
     ```
 2.  **Install Dependencies:** Install `llama-index`, `transformers`, `torch`, `datasets`, and other required libraries (You may need a `requirements.txt` file, or install dependencies directly from the notebook).
